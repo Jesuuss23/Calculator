@@ -100,7 +100,7 @@ function se_handle_form_submission() {
     $precio_final = $costo_laboral + $addons_total_price;
 
 
-    $to_company = 'marketing@ngcleaningservices.com, info@ngcleaningservices.com';
+    $to_company = 'jesuscarhuancho23@gmail.com';
     $to_client = $email; 
     
     $subject = 'Cleaning Estimate: ' . $service_info['name'];
